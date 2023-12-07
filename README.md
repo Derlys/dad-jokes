@@ -67,6 +67,7 @@ npm install
 - The build artifacts will be stored in the `/` directory.
 - Use the `--prod` flag for a production build.
 - Remember that I used [this API](https://www.dadjokes.io/)
+- For deployment to user to used "VERCEL"
 
   
 
