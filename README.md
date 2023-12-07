@@ -31,31 +31,24 @@ I did not focus on styles or other functionalities.
 
 ## Develoment
 
+I made the web app as simple as possible, creating a service that serves the function of calling the API.
+
+I didn't focus on styles or other functionalities.
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8dm338quxnsmo902n0c8.png)
 
   
 ## 💪🏽 What impacted me positively
 
-- The evolution of web application is the same as my learning.
+- It's amazing how services help you delegate the logic contained in each component.
 
-- Every learning of a new style framework, a new concept or a new version of Angular is reflected here. I started with Angular V8.
-- The refactoring and the order it started with is currently very different. Leaving learnings about clean code, application architecture, design and more.
+- I discovered that you can learn a concept in a clear way without making a complex web app.
 
   ## My challenge
-- Learn new syntax in style frameworks.
-
-- The decision of where to host the data changed more than 3 times between Firebase, my own backend application that was more of a manager, and finally my own project that used Markdown.
-
-- For server side rendering, I first had my domain and used "good daddy" and then switched to Cloudflare because it was free.
-
-- Making the routes work was a task that involved more than 10 prototypes.
-
-  ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ppls4zg32x9hdozswfyt.png)
-
-- I solved the functionality of displaying a certain amount of post on the home page with this service.
-
   
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/krtoz4q5uxe7ix1yciwr.png)
+- There are many ways to use an API, one of the challenges was to choose between them. 
 
+I continue to learn about other ways to use it.
   
   
 ## What Do you need for run this project
@@ -67,11 +60,14 @@ npm install
 ```
 😉 I prefer `yarn`, [here](https://www.aluracursos.com/blog/npm-vs-yarn) is an article for you to decide.
 
-2. ng serve
+2. ng serve for localhost
 
 ## Build
 - Run `ng build` to build the project.
-- The build artifacts will be stored in the `/dist/mododificil.com/browser` directory.
+- The build artifacts will be stored in the `/` directory.
 - Use the `--prod` flag for a production build.
+- Remember that I used [this API](https://www.dadjokes.io/)
+
+  
 
 
